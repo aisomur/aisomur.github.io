@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Publications
+title: Publications List
 permalink: /publications/
 ---
-
-Some information about you!
 
 ### More Information
 
@@ -39,6 +37,7 @@ An image, located within /images
 1. An
 2. ordered
 3. list
+4.
 
 Inline markup styles:
 
