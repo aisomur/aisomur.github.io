@@ -37,7 +37,7 @@ An image, located within /images
 1. An
 2. ordered
 3. list
-4.
+4. list
 
 Inline markup styles:
 
